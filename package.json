@@ -1,0 +1,23 @@
+{
+  "name": "videoextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSninjawizard/videoExtractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSninjawizard/videoExtractor/issues"
+  },
+  "homepage": "https://github.com/JSninjawizard/videoExtractor#readme",
+  "dependencies": {
+    "yt-dlp-wrap": "^2.3.12"
+  }
+}
