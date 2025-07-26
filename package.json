@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JSninjawizard/videoExtractor#readme",
   "dependencies": {
+    "puppeteer": "^24.15.0",
     "yt-dlp-wrap": "^2.3.12"
   }
 }
